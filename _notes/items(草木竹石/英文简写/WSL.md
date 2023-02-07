@@ -1,0 +1,2 @@
+适用于Linux的Windows子系统
+适用于Linux的Windows子系统是一个为在Windows 10和Windows Server 2019上能够原生运行Linux二进制可执行文件的兼容层。

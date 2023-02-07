@@ -1,0 +1,1 @@
+certutil -hashfile D:\file.txt  MD5

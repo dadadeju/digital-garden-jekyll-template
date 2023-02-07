@@ -1,0 +1,1 @@
+AOSP，全称"Android Open Source Project"，中文意为"Android 开放源代码项目"。发起者是谷歌，主要用途是移动设备的系统。
